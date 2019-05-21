@@ -1,4 +1,4 @@
-# Looker Scripts
+# Looker Client
 
 Scripts for the Looker API
 
