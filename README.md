@@ -22,7 +22,14 @@ view available commands
 
 ### Delete Users
 
+show help
+
+```sh
+./cli.py delete-users --help
+```
+
 Provide a text file with user ID's on each line that you wish to delete
+
 
 ```sh
 ./cli.py --env ./local/some-env-file.env delete-users --fp ./local/delete-users-file.txt
