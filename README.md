@@ -2,7 +2,7 @@
 
 Scripts for the Looker API
 
-(Looker API Docs)[]
+(Looker API Docs)[https://docs.looker.com/reference/api-and-integration]
 
 ### Quickstart
 
