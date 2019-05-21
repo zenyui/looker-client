@@ -1,0 +1,10 @@
+version: '3'
+services:
+  looker-api-client:
+    build:
+      context: .
+      dockerfile: ./docker/Dockerfile
+    image: looker-api-client
+    volumes:
+      - ./local/:/app/local/
+      - ./looker-client:/app/
